@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Group Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logging_in">Logging in&#8230;</string>
+
+    <string name="double_press_to_exit">Please press BACK again to exit</string>
+
+    <string name="_cannot_be_empty">&#160;cannot be empty</string>
+</resources>
